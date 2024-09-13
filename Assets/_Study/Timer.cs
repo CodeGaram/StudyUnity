@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace CodeGaram.Study.UniRx
+namespace CodeGaram.Study
 {
     public class Timer : MonoBehaviour
     {
